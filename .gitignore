@@ -13,7 +13,7 @@ venv/
 .tox/
 dist/
 build/
-
+.idea
 # IDEs
 .idea/  # PyCharm
 .vscode/ # VSCode
